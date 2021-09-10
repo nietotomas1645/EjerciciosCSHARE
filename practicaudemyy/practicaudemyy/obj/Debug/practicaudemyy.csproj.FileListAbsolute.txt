@@ -1,0 +1,7 @@
+C:\Users\Tomas\source\repos\practicaudemyy\practicaudemyy\bin\Debug\practicaudemyy.exe.config
+C:\Users\Tomas\source\repos\practicaudemyy\practicaudemyy\bin\Debug\practicaudemyy.exe
+C:\Users\Tomas\source\repos\practicaudemyy\practicaudemyy\bin\Debug\practicaudemyy.pdb
+C:\Users\Tomas\source\repos\practicaudemyy\practicaudemyy\obj\Debug\practicaudemyy.csprojAssemblyReference.cache
+C:\Users\Tomas\source\repos\practicaudemyy\practicaudemyy\obj\Debug\practicaudemyy.csproj.CoreCompileInputs.cache
+C:\Users\Tomas\source\repos\practicaudemyy\practicaudemyy\obj\Debug\practicaudemyy.exe
+C:\Users\Tomas\source\repos\practicaudemyy\practicaudemyy\obj\Debug\practicaudemyy.pdb
